@@ -1,8 +1,18 @@
 # Scene Generator Prompts
 
-A cloned archive of the Notion page "Scene Generator Prompts".
+A cloned archive of the Notion page "Scene Generator Prompts", preserving the original text and images verbatim.
 
 Source: https://designhacker.notion.site/2808ee976d0c804cbac4cc7ab9c33de4
+
+**Web app:** https://webapp-vlkbhvos.devinapps.com/ — browse all prompts and images in a gallery view. Source: [`webapp/`](./webapp/).
+
+## Contents
+
+- [`prompts/`](./prompts/) — one Markdown file per prompt page, with full preserved text and embedded images.
+- [`prompts/images/`](./prompts/images/) — original PNG images downloaded from Notion (unmodified).
+- [`data/prompts.json`](./data/prompts.json) — structured JSON of all 17 prompts.
+- [`data/scraped-raw.json`](./data/scraped-raw.json) — raw scrape output (body text + full HTML per page).
+- [`webapp/`](./webapp/) — static single-page web app that renders the gallery.
 
 ## Tools
 
