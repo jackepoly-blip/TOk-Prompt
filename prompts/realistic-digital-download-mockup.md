@@ -1,0 +1,25 @@
+# Realistic Digital Download Mockup
+
+**Category:** Digital Download Mockups
+
+**Quick Description:** High-end mockup with perfect design detail preservation.
+
+## Images
+
+![Realistic Digital Download Mockup](./images/7bc949e0_Scene_Generator_Thumbnails__19_.png)
+
+## Prompt
+
+Use this prompt to transform your uploaded document design into a high-end, photorealistic mockup presentation. Attach your PDF cover or spreads, and the AI will seamlessly integrate them into realistic physical or digital environments while preserving every design detail exactly.
+Image Prompt:
+[Attach an image of you or the main subject of your image]
+Then paste this prompt in the chat along with your uploaded image...
+Analyze the subject in the attached image and generate an image of them into the scene described in this prompt. First, analyze the uploaded document images with meticulous precision, identifying whether they represent a cover design only, or both a cover and interior page spreads. Extract every detail of the uploaded content exactly as it appears: typography, layout, proportions, graphics, margins, icons, imagery, and color palette must be preserved flawlessly without alteration, distortion, or artistic reinterpretation. The document’s design identity is sacred—it must never be cropped, blurred, stretched, filtered, recolored, or modified beyond what is minimally necessary to integrate naturally into a vertical mockup presentation. The generated mockup must always respect the content’s real orientation. If the provided design is vertical, display it either as a tangible printed resource (a clean stack of papers, a bound workbook, or a sleek report booklet) or as a digital vertical device (a modern tablet such as an iPad). Avoid phones and laptops unless the uploaded content is explicitly horizontal—in those cases, it may be placed naturally into a laptop or desktop mockup that suits the proportions. Always ensure the document remains sharp, legible, and perfectly aligned within the mockup so that it looks professionally photographed rather than digitally pasted. Once the content is secured into the chosen format, expand outward into an environmental scene that visually conveys the core message and mood of the resource itself. For example, if the guide design feels professional and minimalist, stage it in a clean, airy workspace with neutral backgrounds, soft daylight, and subtle props like pens, notepads, or coffee cups. If it feels creative and bold, build a scene rich in color, with dynamic surfaces, textures, and supporting objects that match the energy of the design. If it feels educational or instructive, position it in a studious or organized environment, with contextual props like clipboards, sticky notes, or stationary that amplify its instructional purpose. Composition must always make the document the hero of the image—dominant, clear, and immediately understood—while the environment amplifies its perceived value. Vary perspectives and crops so results never feel repetitive: sometimes zoom in close to highlight the texture of the printed pages or the glossy reflection of a tablet, sometimes pull back for a wide cinematic shot that situates the document within a full desk scene. Experiment with angled perspectives—flat lays with props, three-quarter angled shots with depth of field, or upright standing arrangements that emphasize stature and importance. Lighting is critical: if the design is light and clean, illuminate with bright natural daylight and subtle shadows; if bold and dramatic, light with contrast, depth, and directional highlights; if modern and sleek, use controlled studio-like lighting with reflective surfaces. Harmonize color grading so that the scene amplifies the design’s colors and brand tone, ensuring the mockup feels intentional and on-brand. When multiple pages or resources are uploaded, distribute them intelligently within the same scene, arranging them in a balanced, dynamic way that highlights variety without visual clutter. The final image must read as a professional, high-end mockup created specifically for this downloadable resource. Post-processing must unify everything with subtle adjustments like contrast, sharpness, clarity, bloom, or vignette so the final result is photorealistic and premium. Each generated mockup must be a distinct variation of the concept—introducing diversity through composition, angle, props, and lighting—while always preserving the document’s exact design integrity. Every output should feel like a unique branded showcase, perfectly suited for use on social media, ads, or landing pages. 
+
+👉 IMAGE ASPECT RATIO (OPTIONAL): 
+👉 ADDITIONAL DETAILS (OPTIONAL): 
+​
+
+---
+
+Original Notion URL: https://designhacker.notion.site/Realistic-Digital-Download-Mockup-2808ee976d0c80d3858ecf80b6fa47bc
